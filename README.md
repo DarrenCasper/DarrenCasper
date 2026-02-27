@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Developing software related items
 - 📫 How to reach me: darrendexterthio@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Hoyoverse Gacha Slave
+- ⚡ Fun fact: Rhytm Game Player
 
 <!---
 DarrenCasper/DarrenCasper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
