@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarrenCasper
 - 👀 I’m interested in Web Development and Game Development (maybe with Software Engineer)
-- 🌱 I’m currently learning C , C++ , C#, HTML , CSS , JS
+- 🌱 I’m currently learning React, Tailwind, Express, Node.js, and SQL
 - 💞️ I’m looking to collaborate on Developing software related items
 - 📫 How to reach me: darrendexterthio@gmail.com
 - 😄 Pronouns: HE/HIM
