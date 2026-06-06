@@ -4,8 +4,8 @@
 
 ### Computer Engineering Student | Web Development Enthusiast | Aspiring Software Engineer
 
-I am currently learning and building projects using **React**, **Tailwind CSS**, **Express**, **Node.js**, and **SQL**.  
-I enjoy creating clean, useful, and interactive web applications while continuously improving my programming skills.
+I am currently learning and building projects using **React**, **Tailwind CSS**, **Express**, **Node.js**, **SQL**, **MongoDB**, and **Arduino IDE**.  
+I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark**, **PNETLab**, **Proteus**, and **Fusion 360**.
 
 </div>
 
@@ -24,6 +24,8 @@ I enjoy creating clean, useful, and interactive web applications while continuou
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
@@ -35,12 +37,23 @@ I enjoy creating clean, useful, and interactive web applications while continuou
 ![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-### Tools
+### Networking & Simulation
+![Cisco](https://img.shields.io/badge/Cisco-1F2937?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Wireshark](https://img.shields.io/badge/Wireshark-1F2937?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![PNETLab](https://img.shields.io/badge/PNETLab-1F2937?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF)
+
+### Embedded, IoT & Design
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-1F2937?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Proteus](https://img.shields.io/badge/Proteus-1F2937?style=for-the-badge&logo=protodotio&logoColor=FFFFFF)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-1F2937?style=for-the-badge&logo=autodesk&logoColor=FF6F00)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-1F2937?style=for-the-badge&logo=google&logoColor=4285F4)
 ---
 
 ## 🚀 Featured Projects
@@ -81,9 +94,11 @@ A countdown website for anime-related schedules with basic functionality and int
 
 <div align="center">
 
-![Darren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrenCasper&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarrenCasper&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCasper&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarrenCasper&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
