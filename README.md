@@ -5,7 +5,7 @@
 ### Computer Engineering Student | Web Development Enthusiast | Aspiring Software Engineer
 
 I am currently learning and building projects using **React**, **Tailwind CSS**, **Express**, **Node.js**, **SQL**, **MongoDB**, and **Arduino IDE**.  
-I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark**, **PNETLab**, **Proteus**, and **Fusion 360**.
+I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark**, **PNETLab**, **Docker**, **Proteus**, and **Fusion 360**.
 
 </div>
 
@@ -53,6 +53,7 @@ I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark*
 ![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-1F2937?style=for-the-badge&logo=google&logoColor=4285F4)
 ---
 
