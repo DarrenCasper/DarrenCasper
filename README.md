@@ -22,7 +22,6 @@ I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark*
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
