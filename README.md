@@ -5,7 +5,7 @@
 ### Computer Engineering Student | Web Development Enthusiast | Aspiring Software Engineer
 
 I am currently learning and building projects using **React**, **Tailwind CSS**, **Express**, **Node.js**, **SQL**, **MongoDB**, and **Arduino IDE**.  
-I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark**, **PNETLab**, **Docker**, **Proteus**, and **Fusion 360**.
+I also explore **networking**, **IoT**, **self-hosting**, and **design tools** such as **Cisco**, **Wireshark**, **PNETLab**, **Docker**, **Cloudflare**, **Coolify**, **Proteus**, and **Fusion 360**.
 
 </div>
 
@@ -13,15 +13,16 @@ I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark*
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering student  
-- 🌱 Currently learning **React, Tailwind CSS, Express, Node.js, and SQL**
+- 🎓 Computer Engineering student
+- 🌱 Currently learning **Web Development, Backend Development, Database, Networking, and IoT**
+- 🖥️ Started exploring **Linux Ubuntu Server** for home server and self-hosted project deployment
 - 💻 Interested in **Web Development**, **Game Development**, and **Software Engineering**
+- 🤖 Using AI tools such as **Claude Code**, **Gemini**, and **GPT** to support coding, debugging, and learning
 - 🤝 Open to collaborate on software development projects
 - 🎮 Fun fact: I enjoy playing rhythm games
 - 📫 Reach me at: **darrendexterthio@gmail.com**
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -38,6 +39,12 @@ I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark*
 ![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
+### Infrastructure & Deployment
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-1F2937?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1F2937?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Coolify](https://img.shields.io/badge/Coolify-1F2937?style=for-the-badge&logo=coolify&logoColor=FFFFFF)
+
 ### Networking & Simulation
 ![Cisco](https://img.shields.io/badge/Cisco-1F2937?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1F2937?style=for-the-badge&logo=wireshark&logoColor=1679A7)
@@ -48,12 +55,17 @@ I also explore networking, IoT, and design tools such as **Cisco**, **Wireshark*
 ![Proteus](https://img.shields.io/badge/Proteus-1F2937?style=for-the-badge&logo=protodotio&logoColor=FFFFFF)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-1F2937?style=for-the-badge&logo=autodesk&logoColor=FF6F00)
 
+### AI Tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-1F2937?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Gemini](https://img.shields.io/badge/Gemini-1F2937?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![GPT](https://img.shields.io/badge/GPT-1F2937?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-1F2937?style=for-the-badge&logo=google&logoColor=4285F4)
+
 ---
 
 ## 🚀 Featured Projects
@@ -120,3 +132,4 @@ A countdown website for anime-related schedules with basic functionality and int
 ### Thanks for visiting my profile ✨
 
 </div>
+```
